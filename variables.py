@@ -47,7 +47,7 @@ FUENTE_NOMBRE_RESULTADO = pygame.font.Font(ruta_fuentes + "GameBubleDEMO.otf", 2
 UN_SEGUNDO = 1000
 
     # Cantidad filas, cantidad columnas, cantidad minas
-MATRIZ_FACIL = (8, 8, 4)
+MATRIZ_FACIL = (8, 8, 10)
 MATRIZ_MEDIO = (16, 16, 40)
 MATRIZ_DIFICIL = (24, 24, 90)
 
